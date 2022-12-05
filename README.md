@@ -20,7 +20,8 @@ I'm a Full Stack Developer!!</h2>
   
   -  jQuery
   
-  -  React
+  -  ReactJS
+  -  NextJS
   
   -  NodeJS
   
