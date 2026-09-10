@@ -30,7 +30,7 @@ Currently, I lead web projects and development teams while still being actively 
 <h3>🛠️ Languages & Technologies</h3>
 
 <strong>Frontend</strong> <br>
-HTML5 · CSS3 · Sass · JavaScript (ES6+) · React · Next.js · JSX · Redux · Hooks · Bootstrap · Tailwind CSS
+HTML5 · CSS3 · Sass · JavaScript (ES6+) · Astro.js · React.js · Next.js · JSX · Redux · Hooks · Bootstrap · Tailwind CSS
 
 <strong>Backend</strong> <br>
 Node.js · Express.js · REST APIs · MongoDB · Mongoose · PHP · Laravel
