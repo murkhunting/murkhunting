@@ -32,22 +32,14 @@ Currently, I lead web projects and development teams while still being actively 
 <strong>Frontend</strong> <br>
 HTML5 · CSS3 · Sass · JavaScript (ES6+) · React · Next.js · JSX · Redux · Hooks · Bootstrap · Tailwind CSS
 
-<br><br>
-
 <strong>Backend</strong> <br>
 Node.js · Express.js · REST APIs · MongoDB · Mongoose · PHP · Laravel
-
-<br><br>
 
 <strong>CMS</strong> <br>
 WordPress · Elementor · WPML
 
-<br><br>
-
 <strong>Tools & Workflow</strong> <br>
 Git · GitHub · GitHub Projects · Trello · Postman · NPM · Visual Studio Code · Plesk
-
-<br><br>
 
 <strong>Design & Product</strong> <br>
 Figma · Miro · Balsamiq · Adobe Photoshop · Adobe Illustrator
